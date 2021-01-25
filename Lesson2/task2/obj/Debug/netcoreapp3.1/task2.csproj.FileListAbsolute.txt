@@ -1,0 +1,13 @@
+C:\Repo\Homework\Lesson2\task2\obj\Debug\netcoreapp3.1\task2.csprojAssemblyReference.cache
+C:\Repo\Homework\Lesson2\task2\obj\Debug\netcoreapp3.1\task2.AssemblyInfoInputs.cache
+C:\Repo\Homework\Lesson2\task2\obj\Debug\netcoreapp3.1\task2.AssemblyInfo.cs
+C:\Repo\Homework\Lesson2\task2\obj\Debug\netcoreapp3.1\task2.csproj.CoreCompileInputs.cache
+C:\Repo\Homework\Lesson2\task2\bin\Debug\netcoreapp3.1\task2.exe
+C:\Repo\Homework\Lesson2\task2\bin\Debug\netcoreapp3.1\task2.deps.json
+C:\Repo\Homework\Lesson2\task2\bin\Debug\netcoreapp3.1\task2.runtimeconfig.json
+C:\Repo\Homework\Lesson2\task2\bin\Debug\netcoreapp3.1\task2.runtimeconfig.dev.json
+C:\Repo\Homework\Lesson2\task2\bin\Debug\netcoreapp3.1\task2.dll
+C:\Repo\Homework\Lesson2\task2\bin\Debug\netcoreapp3.1\task2.pdb
+C:\Repo\Homework\Lesson2\task2\obj\Debug\netcoreapp3.1\task2.dll
+C:\Repo\Homework\Lesson2\task2\obj\Debug\netcoreapp3.1\task2.pdb
+C:\Repo\Homework\Lesson2\task2\obj\Debug\netcoreapp3.1\task2.genruntimeconfig.cache
