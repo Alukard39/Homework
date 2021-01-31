@@ -1,0 +1,13 @@
+C:\Repo\Homework\Lesson 3\bin\Debug\netcoreapp3.1\Lesson 3.exe
+C:\Repo\Homework\Lesson 3\bin\Debug\netcoreapp3.1\Lesson 3.deps.json
+C:\Repo\Homework\Lesson 3\bin\Debug\netcoreapp3.1\Lesson 3.runtimeconfig.json
+C:\Repo\Homework\Lesson 3\bin\Debug\netcoreapp3.1\Lesson 3.runtimeconfig.dev.json
+C:\Repo\Homework\Lesson 3\bin\Debug\netcoreapp3.1\Lesson 3.dll
+C:\Repo\Homework\Lesson 3\bin\Debug\netcoreapp3.1\Lesson 3.pdb
+C:\Repo\Homework\Lesson 3\obj\Debug\netcoreapp3.1\Lesson 3.csprojAssemblyReference.cache
+C:\Repo\Homework\Lesson 3\obj\Debug\netcoreapp3.1\Lesson 3.AssemblyInfoInputs.cache
+C:\Repo\Homework\Lesson 3\obj\Debug\netcoreapp3.1\Lesson 3.AssemblyInfo.cs
+C:\Repo\Homework\Lesson 3\obj\Debug\netcoreapp3.1\Lesson 3.csproj.CoreCompileInputs.cache
+C:\Repo\Homework\Lesson 3\obj\Debug\netcoreapp3.1\Lesson 3.dll
+C:\Repo\Homework\Lesson 3\obj\Debug\netcoreapp3.1\Lesson 3.pdb
+C:\Repo\Homework\Lesson 3\obj\Debug\netcoreapp3.1\Lesson 3.genruntimeconfig.cache
