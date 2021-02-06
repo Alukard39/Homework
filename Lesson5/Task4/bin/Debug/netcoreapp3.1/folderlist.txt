@@ -1,0 +1,10 @@
+C:\Test\bin
+C:\Test\Lesson3
+C:\Test\obj
+C:\Test\Program.cs
+C:\Test\Task3.csproj
+C:\Test\bin
+C:\Test\Lesson3
+C:\Test\obj
+C:\Test\Program.cs
+C:\Test\Task3.csproj

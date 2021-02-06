@@ -1,0 +1,4 @@
+C:\Repo\Homework\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.csprojAssemblyReference.cache
+C:\Repo\Homework\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.AssemblyInfoInputs.cache
+C:\Repo\Homework\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.AssemblyInfo.cs
+C:\Repo\Homework\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.csproj.CoreCompileInputs.cache
