@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repo\\Homework\\Lesson2\\task1\\task1.csproj": {}
+    "C:\\Repo\\Homework\\Lesson2\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Repo\\Homework\\Lesson2\\task1\\task1.csproj": {
+    "C:\\Repo\\Homework\\Lesson2\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\Homework\\Lesson2\\task1\\task1.csproj",
-        "projectName": "task1",
-        "projectPath": "C:\\Repo\\Homework\\Lesson2\\task1\\task1.csproj",
+        "projectUniqueName": "C:\\Repo\\Homework\\Lesson2\\Task1\\Task1.csproj",
+        "projectName": "Task1",
+        "projectPath": "C:\\Repo\\Homework\\Lesson2\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\aluka\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\Homework\\Lesson2\\task1\\obj\\",
+        "outputPath": "C:\\Repo\\Homework\\Lesson2\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluka\\AppData\\Roaming\\NuGet\\NuGet.Config",

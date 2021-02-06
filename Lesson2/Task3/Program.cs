@@ -6,17 +6,16 @@ namespace Task3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter the number!");
-            string snumber = Console.ReadLine();
-            int inumber = Convert.ToInt32(snumber);
-            if (inumber % 2 == 0)
+            Console.WriteLine("Please enter number:");
+            int input = Convert.ToInt32(Console.ReadLine());
+            if (input%2 == 0)
             {
-                Console.WriteLine("Your number is Even");
+                Console.WriteLine("Your number is even");
             }
-            else {
-                Console.WriteLine("Your number is Odd");
+            else
+            {
+                Console.WriteLine("Your number is odd");
             }
-
         }
     }
 }

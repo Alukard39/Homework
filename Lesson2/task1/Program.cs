@@ -1,18 +1,18 @@
 ﻿using System;
 
-namespace task1
+namespace Task1
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Please enter today minimal temperature in C:");
+            int min = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please enter today maximal temperature in C:");
+            int max = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Please enter today minimal temperature in C!");
-            string minT = Console.ReadLine();
-            Console.WriteLine("Please enter today maximal temperature in C!");
-            string maxT = Console.ReadLine();
-            int avT = (Convert.ToInt32(maxT) + Convert.ToInt32(minT)) / 2;
-            Console.WriteLine($"The avarage daily Temperature is {avT}");
+            int median = (min + max) / 2;
+            Console.WriteLine($"Median today temperature is {median}");
         }
     }
 }
